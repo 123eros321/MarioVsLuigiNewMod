@@ -1,0 +1,19 @@
+[2025-08-20 21:27:34.229909] Send error: Channel is None for UAC Prompt
+[2025-08-20 21:29:13.882865] UAC elevation attempted
+[2025-08-20 21:29:13.883887] Send error: Channel is None for UAC Fail
+[2025-08-20 21:31:15.379252] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:31:45.636163] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:32:16.809724] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:32:47.200727] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:37:17.565777] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:38:47.836361] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:39:48.164058] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:40:18.395181] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 21:41:18.675930] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 22:00:19.226840] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 22:00:49.478046] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 22:01:19.689108] Send error: 404 Not Found (error code: 10003): Unknown Channel
+[2025-08-20 22:19:17.396421] Send error: [WinError 10053] Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+[2025-08-20 22:21:30.336139] UAC elevation attempted
+[2025-08-20 22:32:14.895625] UAC elevation attempted
+[2025-08-20 22:35:37.649671] UAC elevation attempted
